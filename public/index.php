@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="shortcut icon" href="desarrollo.png">
+  </head>
+</html>
+
 <?php
 
 /**
